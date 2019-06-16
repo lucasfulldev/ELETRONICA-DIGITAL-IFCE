@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1556281359 source:c:\users\ricar\dropbox\ifce 2019-i\modeloapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1559563015 source:c:\users\ricar\dropbox\ifce 2019-i\engtel - introdução à programação\aula 50 - 03-06-2019\modeloapp - com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+
+1559561279 c:\users\ricar\dropbox\ifce 2019-i\engtel - introdução à programação\aula 50 - 03-06-2019\modeloapp - com menu\auxiliares.h
+	<ctype.h>
+
+1559563015 source:c:\users\ricar\dropbox\ifce 2019-i\engtel - introdução à programação\aula 52 - 07-06-2019\modeloapp - com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+
+1559561279 c:\users\ricar\dropbox\ifce 2019-i\engtel - introdução à programação\aula 52 - 07-06-2019\modeloapp - com menu\auxiliares.h
+	<ctype.h>
+
+1560376546 source:c:\users\ricar\dropbox\ifce 2019-i\telemÁtica\aula 32 - 12-06-2019\modeloapp - com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+
+1559561279 c:\users\ricar\dropbox\ifce 2019-i\telemÁtica\aula 32 - 12-06-2019\modeloapp - com menu\auxiliares.h
+	<ctype.h>
+
+1560376546 source:c:\users\lucas\desktop\1373742-aula_32_modelos_para_o_trabalho\modeloapp - com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"auxiliares.h"
+
+1559561279 c:\users\lucas\desktop\1373742-aula_32_modelos_para_o_trabalho\modeloapp - com menu\auxiliares.h
+	<ctype.h>
+
